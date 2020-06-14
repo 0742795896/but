@@ -1,0 +1,22 @@
+body {
+  background-color: yellow;
+}
+
+body {
+ background-image: url("paper.gif");
+ background-color: #cccccc;
+}
+
+h2 {
+  color: red;
+  
+}
+  
+}
+h3 {
+  color: pink;
+  text-align: center;
+}
+p.dotted{
+  border-style:solid;
+{

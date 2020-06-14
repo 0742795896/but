@@ -1,0 +1,25 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="stylesheet" type="text/css" href="about.css">
+
+    <meta charset="UTF-8">
+    <title>sophie</title>               
+    <a href="/landing">Landing page</a>  
+    <a href="/about">About</a>       
+    <a href="/contact">Contact</a>   
+    <a href="/login">Login</a>
+    <a href="/register">Register</a>   
+
+
+</head>
+<body>
+<h1>1. Personal Details</h1>
+<h1>2. Personal Career Objectives</h1>
+<h1>3. Education Experience</h1>
+<h1>4. Hobbies</h1>
+<h1>5. Referees</h1>
+
+</body>
+</html>

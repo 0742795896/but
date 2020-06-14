@@ -1,0 +1,24 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="stylesheet" type="text/css" href="contact.css">
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<a href="/landing">Landing page</a>
+<a href="/about">About</a>
+<a href="/contact">Contact</a>
+<a href="/login">Login</a>
+<a href="/register">Register</a>
+</body>
+<h2> Phone number</h2>
+<p> 0793952437</p>
+<h2> Email</h2>
+<p> sophee munala@gmail</p>
+<h2>Facebook</h2>
+<p>Sophie mnalar</p>
+<h2> Twitter</h2>
+<p>Sophie munalar</p>
+</html>
